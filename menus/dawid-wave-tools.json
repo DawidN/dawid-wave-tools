@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Convert SAQL to JSON",
+        "command": "dawid-wave-tools:convert-to-json"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "dawid-wave-tools",
+          "submenu": [
+            {
+              "label": "Convert SAQL to JSON",
+              "command": "dawid-wave-tools:convert-to-json"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
