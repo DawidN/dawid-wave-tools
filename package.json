@@ -1,7 +1,7 @@
 {
   "name": "dawid-wave-tools",
   "main": "./lib/dawid-wave-tools",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Dawid's tools for developing Wave",
   "keywords": [],
   "activationCommands": {
