@@ -3,3 +3,5 @@
 ## 0.3.0 - Second Release
 * Adds config file for managing key value replacement
 * Adds Replace ID's function
+## 0.4.0
+* Adds generate replace.json if it doesn't exist.
