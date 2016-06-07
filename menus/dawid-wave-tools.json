@@ -2,11 +2,15 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Convert SAQL to JSON",
+        "label": "Wave: Convert SAQL to JSON",
         "command": "dawid-wave-tools:convert-to-json"
       },
       {
-        "label": "Replace ID's",
+        "label": "Wave: Convert JSON format to SAQL",
+        "command": "dawid-wave-tools:convert-to-saql"
+      },
+      {
+        "label": "Wave: Replace ID's",
         "command": "dawid-wave-tools:replace-ids"
       }
     ]
@@ -25,6 +29,10 @@
             {
               "label": "Convert SAQL to JSON",
               "command": "dawid-wave-tools:convert-to-json"
+            },
+            {
+              "label": "Convert JSON format to SAQL",
+              "command": "dawid-wave-tools:convert-to-saql"
             },
             {
               "label": "Replace ID's",
