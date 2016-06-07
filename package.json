@@ -1,12 +1,10 @@
 {
   "name": "dawid-wave-tools",
   "main": "./lib/dawid-wave-tools",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Dawid's tools for developing Wave",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "dawid-wave-tools:open-config-file",
-    "atom-workspace": "dawid-wave-tools:convert-to-json",
     "atom-workspace": "dawid-wave-tools:replace-ids"
   },
   "repository": "https://github.com/dawidn/dawid-wave-tools",
