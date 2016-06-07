@@ -8,7 +8,7 @@
     "atom-workspace": [
       "dawid-wave-tools:replace-ids",
       "dawid-wave-tools:convert-to-json",
-      "dawid-wave-tools:open-config-file",
+      "dawid-wave-tools:open-config-file"
     ]
   },
   "repository": "https://github.com/dawidn/dawid-wave-tools",
