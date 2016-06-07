@@ -5,5 +5,5 @@
 * Adds Replace ID's function
 ## 0.4.0
 * Adds generate replace.json if it doesn't exist.
-## 0.4.1
+## 0.4.2
 * Fixed issue with convert-to-json function not working
