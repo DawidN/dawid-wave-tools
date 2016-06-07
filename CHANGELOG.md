@@ -7,3 +7,5 @@
 * Adds generate replace.json if it doesn't exist.
 ## 0.4.2
 * Fixed issue with convert-to-json function not working
+## 0.4.3
+* updated so that all line break types are recognised
