@@ -5,7 +5,9 @@
   "description": "Dawid's tools for developing Wave",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "dawid-wave-tools:open-config-file"
+    "atom-workspace": "dawid-wave-tools:open-config-file",
+    "atom-workspace": "dawid-wave-tools:convert-to-json",
+    "atom-workspace": "dawid-wave-tools:replace-ids"
   },
   "repository": "https://github.com/dawidn/dawid-wave-tools",
   "license": "MIT",
