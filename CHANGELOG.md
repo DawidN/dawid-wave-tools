@@ -9,3 +9,6 @@
 * Fixed issue with convert-to-json function not working
 ## 0.4.3
 * updated so that all line break types are recognised
+## 0.4.4
+* updated so that there escaped quotes are ignored.
+* spaces instead of line breaks
