@@ -4,6 +4,10 @@
       {
         "label": "Convert SAQL to JSON",
         "command": "dawid-wave-tools:convert-to-json"
+      },
+      {
+        "label": "Replace ID's",
+        "command": "dawid-wave-tools:replace-ids"
       }
     ]
   },
@@ -12,11 +16,19 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "dawid-wave-tools",
+          "label": "Dawid Wave Tools",
           "submenu": [
+            {
+              "label": "Open Config File",
+              "command": "dawid-wave-tools:open-config-file"
+            },
             {
               "label": "Convert SAQL to JSON",
               "command": "dawid-wave-tools:convert-to-json"
+            },
+            {
+              "label": "Replace ID's",
+              "command": "dawid-wave-tools:replace-ids"
             }
           ]
         }
