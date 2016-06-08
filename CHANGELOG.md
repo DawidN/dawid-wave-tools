@@ -15,3 +15,5 @@
 ## 0.5.0
 * adds ability to flick change back to SAQL format (DOES NOT YET CONVERT ID'S BACK)
 * fixes bugs in 0.4.4
+
+Added Slack integration
