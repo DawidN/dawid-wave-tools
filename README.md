@@ -12,5 +12,9 @@ Productivity tools when implementing Salesforce Wave Analytics
 - Removes line breaks
 - Replaces quotes with /"
 
+###Convert JSON format to SAQL
+- changes single line JSON Format SAQL string back into a format that is readable.
+- Does not currently replace aliases back to ID's.
+
 ###Replace ID's
 - Replaces any key value pair as defined in the config file for the selection.
